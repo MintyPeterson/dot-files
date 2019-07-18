@@ -1,0 +1,22 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "workbench.sideBar.location": "right",
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "debug.toolBarLocation": "hidden",
+    "editor.renderWhitespace": "all",
+    "terminal.integrated.rendererType": "dom",
+    "editor.accessibilitySupport": "off",
+    "editor.folding": false,
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "workbench.statusBar.feedback.visible": false,
+    "workbench.tree.indent": 12,
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "window.autoDetectHighContrast": false,
+    "csharp.testsCodeLens.enabled": false,
+    "editor.multiCursorModifier": "ctrlCmd"
+}
