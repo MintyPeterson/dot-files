@@ -1,0 +1,7 @@
+{
+    "telemetry.enableTelemetry": false,
+    "workbench.enablePreviewFeatures": true,
+    "editor.tabSize": 2,
+    "workbench.startupEditor": "none",
+    "workbench.colorTheme": "Quiet Light"
+}
